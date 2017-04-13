@@ -1,0 +1,19 @@
+/*General*/
+
+body{
+  background: #d3d3d3;
+  background: url("../img/banner.jpeg");
+  background-size: cover;
+}
+
+section{
+  height: 100%;
+}
+
+/*Welcome Section*/
+
+.jumbotron{
+  height: 500px;
+  background: rgba(211,211,211, 0.9);
+  text-align: center;
+}
